@@ -1,2 +1,0 @@
-# cicd-project
-dev-project
